@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<info>
+    <id>notes</id>
+    <name>Notes</name>
+    <licence>AGPL</licence>
+    <author>Bernhard Posselt, Jan-Christoph Borchardt, Hendrik Leppelsack</author>
+    <version>2.0.2</version>
+    <namespace>Notes</namespace>
+    <category>tools</category>
+    <description>Distraction-free notes and writing</description>
+    <bugs>https://github.com/owncloud/notes/issues</bugs>
+    <repository type="git">https://github.com/owncloud/notes.git</repository>
+    <ocsid>174554</ocsid>
+    <dependencies>
+        <owncloud min-version="8.1" max-version="9.2" />
+    </dependencies>
+</info>
